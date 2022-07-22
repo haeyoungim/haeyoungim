@@ -23,10 +23,11 @@
 
 <br>
 
-
+<p align="center">
   <Strong>💪 Skills</Strong>
    <br>
    Platforms & Languages
+    </p>
 
 <p align="center" display="inline-block">
         <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> 
