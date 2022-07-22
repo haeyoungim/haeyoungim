@@ -2,8 +2,8 @@
 <br>
 
 <p align="center">
-    <Strong>☁️SNS list☁️</Strong><br><br>
-    <a href="https://tistory.com/" target="_blank"><img src="https://img.shields.io/badge/DevBlog-535D6C?style=flat-square&logo=Blogger&logoColor=white"/></a>
+    <Strong>🤞 Nice way to meet me</Strong><br><br>
+    <a href="https://tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=Blogger&logoColor=white"/></a>
     <a href="https://www.instagram.com" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
     <br>
 
@@ -22,7 +22,9 @@
 <br>
 
 <p align="center">
-    <Strong>⚒️Tech Stack⚒️</Strong><br>
+    <Strong>💪 Skills</Strong>
+    <br>
+    Platforms & Languages
 </p>
 
 <p align="center" display="inline-block">
