@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Rounded&color=353F98FF&height=300&section=header&text=I'm%20Haeyoung&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Transparent&color=353F98FF&height=300&section=header&text=I'm%20Haeyoung&fontSize=90)
 <br>
 
 <p align="center">
