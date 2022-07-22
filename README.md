@@ -3,7 +3,7 @@
 
 <p align="center">
     <Strong>🤞 Nice way to meet me</Strong><br><br>
-    <a href="https://tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=Blogger&logoColor=white"/></a>
+    <a href="https://tistory.com/" target="_blank">img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
     <a href="https://www.instagram.com" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
     <br>
 
