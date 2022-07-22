@@ -4,7 +4,9 @@
 <p align="center">
     <Strong>🤞 Nice way to meet me</Strong><br><br>
     <a href="https://tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
-    <a href="https://www.instagram.com" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+    <a href="mailto:younge1009@gmail.com" target="_blank"><img src="https://img.shields.io/badge/iscowkite@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<!--     <a href="https://www.linkedin.com/in/cowkite/" target="_blank"><img src="https://img.shields.io/badge/SoyeonKim-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a> -->
+<!--     <a href="https://www.instagram.com" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> -->
     <br>
 
 <br><br>
@@ -22,9 +24,8 @@
 <br>
 
 <p align="center">
-    <Strong>💪 Skills</Strong>
-    <br>
-    Platforms & Languages
+### 💪 Skills
+#### Platforms & Languages
 </p>
 
 <p align="center" display="inline-block">
@@ -37,7 +38,7 @@
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
 <!--     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> -->
     <br/>
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
+<!--     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"> -->
 </p>
 
 <br>
