@@ -71,7 +71,7 @@
 - 기술: HTML/CSS/JavaScript + 감성
 
 ---
--->
+
 ## 📈 GitHub 활동
 
 <p align="center">
@@ -80,7 +80,7 @@
 </p>
 
 ---
-
+-->
 ## ☁️ 목표와 다짐
 
 - [ ] Python 공부하기
@@ -101,9 +101,10 @@
 
 <!--
 [![Haeyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=haeyoungim&show_icons=true&theme=github_dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
---!>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haeyoungim&layout=compact)](https://github.com/haeyoungim/github-readme-stats)
 
 <br>
+--!>
 
