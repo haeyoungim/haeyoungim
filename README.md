@@ -1,7 +1,7 @@
 <!--![header](https://capsule-render.vercel.app/api?type=venom&color=6445C4FF&height=300&section=header&text=I'm%20Haeyoung&fontSize=90&animation=fadeIn)-->
 <br>
 
-<h1 align="center">🌼 안녕하세요! I'm Haeyoung Im 🌼</h1>
+<h1 align="center">👻 안녕하세요! I'm Haeyoung Im ✌️</h1>
 <p align="center">끊임없이 배우고, 천천히 성장 중인 주니어 개발자입니다 🧶</p>
 
 ---
@@ -76,7 +76,7 @@
 <!-- - 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname) -->
 ---
 
-<p align="center">💗 오늘보다 내일 더 성장한 개발자가 되겠습니다. 감사합니다! 💗</p>
+<p align="center">오늘보다 내일 더 성장한 개발자가 되겠습니다. 감사합니다! </p>
 
 <!--
 [![Haeyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=haeyoungim&show_icons=true&theme=github_dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
