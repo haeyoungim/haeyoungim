@@ -7,9 +7,10 @@
 ---
 
 ## 🐣 About Me
-
+<!--
 - 🎓 비전공 → 개발에 빠져들게 되어 현재 3년차인 따끈한 주니어예요  
-- 💻 웹 풀스택 개발자 입니다
+-->
+- 💻 웹 풀스택 개발자 입니다!
 - 🌱 TypeScript, Python을 요즘 집중적으로 공부하고 있어요  
 - 🎯 "왜"를 생각하며 코드 짜는 걸 좋아해요
 
@@ -32,7 +33,7 @@
 ### ☁️ Cloud Platforms
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" /> <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black" />
 
-### 🎀 Others
+### 💡 Others
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" /> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white" />
 
 ---
