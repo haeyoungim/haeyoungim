@@ -77,7 +77,7 @@
 <!-- - 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname) -->
 ---
 
-<p align="center">오늘보다 내일 더 성장한 개발자가 되겠습니다. 감사합니다! </p>
+<!--<p align="center">오늘보다 내일 더 성장한 개발자가 되겠습니다. 감사합니다! </p>-->
 
 <!--
 [![Haeyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=haeyoungim&show_icons=true&theme=github_dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
